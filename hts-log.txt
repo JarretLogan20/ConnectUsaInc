@@ -1,31 +1,62 @@
-HTTrack3.49-2+htsswf+htsjava launched on Tue, 05 Dec 2023 20:17:50 at https://connectusainc.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://connectusainc.com -O1 "C:\Users\Logan\Desktop\Connect" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
-
-Information, Warnings and Errors reported for this mirror:
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-	such as username/password authentication for websites mirrored in this project
-	do not share these files/folders if you want these information to remain private
-
-20:28:25	Warning: 	Moved Permanently for https://connectusainc.com/connect/sv9100/
-20:28:25	Warning: 	File has moved from https://connectusainc.com/connect/sv9100/ to https://connectusainc.com/sv9100/
-20:28:27	Warning: 	Moved Permanently for https://connectusainc.com/?p=1579
-20:28:27	Warning: 	File has moved from https://connectusainc.com/?p=1579 to https://connectusainc.com/who-we-are/
-20:28:27	Warning: 	Moved Permanently for https://connectusainc.com/?p=10314
-20:28:27	Warning: 	File has moved from https://connectusainc.com/?p=10314 to https://connectusainc.com/connect-bridge/
-20:28:27	Warning: 	Moved Permanently for https://connectusainc.com/?p=10204
-20:28:27	Warning: 	File has moved from https://connectusainc.com/?p=10204 to https://connectusainc.com/hosted-phones-nec-blue/
-20:28:28	Warning: 	Moved Permanently for https://connectusainc.com/?p=2076
-20:28:28	Warning: 	File has moved from https://connectusainc.com/?p=2076 to https://connectusainc.com/sv9100/
-20:28:28	Warning: 	Moved Permanently for https://connectusainc.com/?p=9908
-20:28:28	Warning: 	File has moved from https://connectusainc.com/?p=9908 to https://connectusainc.com/sv9300/
-20:28:29	Warning: 	Moved Permanently for https://connectusainc.com/?p=10215
-20:28:29	Warning: 	File has moved from https://connectusainc.com/?p=10215 to https://connectusainc.com/structured-cabling/
-20:28:29	Warning: 	Moved Permanently for https://connectusainc.com/?p=9976
-20:28:29	Warning: 	File has moved from https://connectusainc.com/?p=9976 to https://connectusainc.com/support-request/
-20:28:29	Warning: 	Moved Permanently for https://connectusainc.com/?p=10083
-20:28:29	Warning: 	File has moved from https://connectusainc.com/?p=10083 to https://connectusainc.com/service-manuals/
-20:28:30	Warning: 	Moved Permanently for https://connectusainc.com/?p=1370
-20:28:30	Warning: 	File has moved from https://connectusainc.com/?p=1370 to https://connectusainc.com/contacts/
-
-HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 40 seconds : 149 links scanned, 138 files written (194582513 bytes overall) [188011575 bytes received at 293768 bytes/sec], 7920584 bytes transferred using HTTP compression in 42 files, ratio 16%, 1.9 requests per connection
-(No errors, 20 warnings, 0 messages)
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 05 Dec 2023 20:17:50 at https://connectusainc.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://connectusainc.com -O1 "C:\Users\Logan\Desktop\Connect" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+20:28:25	Warning: 	Moved Permanently for https://connectusainc.com/connect/sv9100/
+
+20:28:25	Warning: 	File has moved from https://connectusainc.com/connect/sv9100/ to https://connectusainc.com/sv9100/
+
+20:28:27	Warning: 	Moved Permanently for https://connectusainc.com/?p=1579
+
+20:28:27	Warning: 	File has moved from https://connectusainc.com/?p=1579 to https://connectusainc.com/who-we-are/
+
+20:28:27	Warning: 	Moved Permanently for https://connectusainc.com/?p=10314
+
+20:28:27	Warning: 	File has moved from https://connectusainc.com/?p=10314 to https://connectusainc.com/connect-bridge/
+
+20:28:27	Warning: 	Moved Permanently for https://connectusainc.com/?p=10204
+
+20:28:27	Warning: 	File has moved from https://connectusainc.com/?p=10204 to https://connectusainc.com/hosted-phones-nec-blue/
+
+20:28:28	Warning: 	Moved Permanently for https://connectusainc.com/?p=2076
+
+20:28:28	Warning: 	File has moved from https://connectusainc.com/?p=2076 to https://connectusainc.com/sv9100/
+
+20:28:28	Warning: 	Moved Permanently for https://connectusainc.com/?p=9908
+
+20:28:28	Warning: 	File has moved from https://connectusainc.com/?p=9908 to https://connectusainc.com/sv9300/
+
+20:28:29	Warning: 	Moved Permanently for https://connectusainc.com/?p=10215
+
+20:28:29	Warning: 	File has moved from https://connectusainc.com/?p=10215 to https://connectusainc.com/structured-cabling/
+
+20:28:29	Warning: 	Moved Permanently for https://connectusainc.com/?p=9976
+
+20:28:29	Warning: 	File has moved from https://connectusainc.com/?p=9976 to https://connectusainc.com/support-request/
+
+20:28:29	Warning: 	Moved Permanently for https://connectusainc.com/?p=10083
+
+20:28:29	Warning: 	File has moved from https://connectusainc.com/?p=10083 to https://connectusainc.com/service-manuals/
+
+20:28:30	Warning: 	Moved Permanently for https://connectusainc.com/?p=1370
+
+20:28:30	Warning: 	File has moved from https://connectusainc.com/?p=1370 to https://connectusainc.com/contacts/
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 40 seconds : 149 links scanned, 138 files written (194582513 bytes overall) [188011575 bytes received at 293768 bytes/sec], 7920584 bytes transferred using HTTP compression in 42 files, ratio 16%, 1.9 requests per connection
+
+(No errors, 20 warnings, 0 messages)
+

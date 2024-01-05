@@ -1,0 +1,53 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.flaticon.com
+*/
+
+@font-face {
+    font-family: "flaticon_mycollection";
+    src: url("./flaticon_mycollection.woff2?9d59d2ba1c6dec49562e8612d8519d6b") format("woff2"),
+url("./flaticon_mycollection.woff?9d59d2ba1c6dec49562e8612d8519d6b") format("woff"),
+url("./flaticon_mycollection.eot?9d59d2ba1c6dec49562e8612d8519d6b#iefix") format("embedded-opentype"),
+url("./flaticon_mycollection.ttf?9d59d2ba1c6dec49562e8612d8519d6b") format("truetype"),
+url("./flaticon_mycollection.svg?9d59d2ba1c6dec49562e8612d8519d6b#flaticon_mycollection") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-tablet:before {
+    content: "\f101";
+}
+.flaticon-right-arrow:before {
+    content: "\f102";
+}
+.flaticon-next:before {
+    content: "\f103";
+}
+.flaticon-search:before {
+    content: "\f104";
+}
+.flaticon-report:before {
+    content: "\f105";
+}
+.flaticon-up:before {
+    content: "\f106";
+}
+.flaticon-back:before {
+    content: "\f107";
+}
+
